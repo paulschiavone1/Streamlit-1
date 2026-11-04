@@ -1,7 +1,5 @@
 Personal Expense Tracker
-Student Name
-
-[Your Name Here]
+Paul Schiavone
 
 App Description
 
