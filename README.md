@@ -24,6 +24,8 @@ Connect to a music service API for live recommendations and real playlist links
 Let users save favorite songs to a list
 Add a "Surprise me" button that picks a random mood and genre
 Make the music personality result more detailed and shareable
+
 How to Run
+
 python -m pip install -r requirements.txt
 streamlit run app.py
