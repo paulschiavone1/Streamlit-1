@@ -1,5 +1,4 @@
 Music Recommendation System
-Student Name
 
 Paul Schiavone
 
